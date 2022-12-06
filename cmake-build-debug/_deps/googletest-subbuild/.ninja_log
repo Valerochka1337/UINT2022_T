@@ -1,0 +1,21 @@
+# ninja log v5
+0	13	1670363101979532882	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4d45b755df97618e
+0	13	1670363101979532882	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4d45b755df97618e
+13	6583	1670363108550075801	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	803690fa48e926a2
+13	6583	1670363108550075801	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	803690fa48e926a2
+6583	6607	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	2a3220e74b56a4cd
+6583	6607	0	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	2a3220e74b56a4cd
+6607	6616	1670363108583189197	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	b9f1f212411d5fdc
+6607	6616	1670363108583189197	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	b9f1f212411d5fdc
+6616	6625	1670363108591940400	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	55d9e2c046f1b95a
+6616	6625	1670363108591940400	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	55d9e2c046f1b95a
+6625	6634	1670363108600895020	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	581502c54b7dee7
+6625	6634	1670363108600895020	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	581502c54b7dee7
+6634	6642	1670363108609491556	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	8a3dc8679389a8c1
+6634	6642	1670363108609491556	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	8a3dc8679389a8c1
+6642	6651	1670363108618548634	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8edf3833c730054a
+6642	6651	1670363108618548634	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8edf3833c730054a
+6651	6664	1670363108630802793	CMakeFiles/googletest-populate-complete	bd2fd2e60debe442
+6651	6664	1670363108630802793	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	bd2fd2e60debe442
+6651	6664	1670363108630802793	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	bd2fd2e60debe442
+6651	6664	1670363108630802793	/Users/valerijarcev/CLionProjects/UINT2022_T/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	bd2fd2e60debe442
